@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @haseeb37
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @haseeb37(Muhammad Haseeb)
+- 👀 I’m interested in wordpress and shopify (CMS)
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on wordpress shopify python R
+- 📫 How to reach me 
 
 <!---
 haseeb37/haseeb37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
